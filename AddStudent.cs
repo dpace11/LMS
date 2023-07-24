@@ -14,6 +14,7 @@ namespace LMS
     public partial class AddStudent : Form
     {
 
+
         LmsDataModel datacontext = new();
         Student std = new();
 
